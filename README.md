@@ -1,3 +1,21 @@
+
+## Descripción
+
+Esta es una sencilla aplicación web desarrollada en el Framework Angular
+que simula una plataforma para brindar servicios de viajes alrededor del mundo.
+
+## Autor
+**ALEXANDER MAESTRE TORRES**
+
+* [LinkedIn](https://www.linkedin.com/in/ajmaestre/)
+* [Portfolio web](https://ajmaestre.github.io/portfolio/home)
+
+## Ver ejemplo en vivo
+- [ENLACEGITHUBPAGES](https://ajmaestre.github.io/TravelWebsite/)
+
+## Contacto
+- [EMAIL](ajmaestretorres@gmail.com)
+
 # TravelWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
