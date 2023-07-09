@@ -32,6 +32,10 @@ section{
 }
 
 .services .box-container .box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     padding: 3rem 2rem;
     text-align: center;
     background: var(--main-color);
@@ -42,8 +46,39 @@ section{
     background: var(--black);
 }
 
-.services .box-container .box img{
+.services .box-container .box .img{
+    width: 7rem;
     height: 7rem;
+}
+
+#img_1{
+    background: url(../../../assets/images/mount3.png);
+    background-size: cover;
+}
+
+#img_2{
+    background: url(../../../assets/images/map.png);
+    background-size: cover;
+}
+
+#img_3{
+    background: url(../../../assets/images/backpack.png);
+    background-size: cover;
+}
+
+#img_4{
+    background: url(../../../assets/images/fire.png);
+    background-size: cover;
+}
+
+#img_5{
+    background: url(../../../assets/images/sign.png);
+    background-size: cover;
+}
+
+#img_6{
+    background: url(../../../assets/images/camp.png);
+    background-size: cover;
 }
 
 .services .box-container .box h3{

@@ -50,15 +50,30 @@ section{
     overflow: hidden;
 }
 
-.home-packages .box-container .box .image img{
+.home-packages .box-container .box .image .img{
     height: 100%;
     width: 100%;
     object-fit: cover;
     transition: .2s linear;
 }
 
-.home-packages .box-container .box:hover .image img{
+.home-packages .box-container .box:hover .image .img{
     transform: scale(1.1);
+}
+
+#image_1{
+    background: url(../../../assets/images/amazonas-selva.jpg);
+    background-size: cover;
+}
+
+#image_2{
+    background: url(../../../assets/images/caribe-beach.jpg);
+    background-size: cover;
+}
+
+#image_3{
+    background: url(../../../assets/images/sierra-nevada.jpg);
+    background-size: cover;
 }
 
 .home-packages .box-container .box .content{

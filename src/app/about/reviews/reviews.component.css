@@ -37,6 +37,10 @@
 }
 
 .reviews .slide .card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     padding: 2.5rem;
     border: var(--border);
     background: var(--white);
@@ -75,11 +79,47 @@
     display: block;
 }
 
-.reviews .slide img{
+.reviews .slide .img{
     height: 7rem;
     width: 7rem;
     border-radius: 50%;
     margin-top: 1rem;
+}
+
+#face_1{
+    background: url(../../../assets/images/face1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#face_2{
+    background: url(../../../assets/images/face2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#face_3{
+    background: url(../../../assets/images/face3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#face_4{
+    background: url(../../../assets/images/face4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#face_5{
+    background: url(../../../assets/images/face-5.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#face_6{
+    background: url(../../../assets/images/face-6.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 @keyframes slide {

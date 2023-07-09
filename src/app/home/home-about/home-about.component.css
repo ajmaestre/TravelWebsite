@@ -30,11 +30,8 @@ section{
 .home-about .image{
     flex: 1 1 41rem;
     height: 40rem;
-}
-
-.home-about .image img{
-    width: 100%;
-    height: 100%;
+    background: url(../../../assets/images/medellin-1.jpg);
+    background-size: cover;
 }
 
 .home-about .content{
