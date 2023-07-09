@@ -2,7 +2,19 @@
 ## Descripción
 
 Esta es una sencilla aplicación web desarrollada en el Framework Angular
-que simula una plataforma para brindar servicios de viajes alrededor del mundo.
+que simula una plataforma para brindar servicios de viajes alrededor de Colombia.
+La aplicación A-Travels ofrece una guía para descubrir los distintos tesoros de Colombia. 
+Busca brindar experiencias únicas que invitan a explorar los diversos paisajes, 
+la rica cultura y la cálida hospitalidad de este hermoso país.
+
+A-Travels te lleva a través de un viaje por los rincones de Colombia. Desde las exuberantes selvas amazónicas y los paisajes montañosos de la Sierra Nevada de Santa Marta, hasta las vibrantes ciudades coloniales y las playas paradisíacas en el Caribe colombiano, tenemos algo para cada tipo de aventurero.
+
+![TravelWebsite-Home](/src/assets/images-readme/index.png)
+
+![TravelWebsite-Us](/src/assets/images-readme/nosotros.png)
+
+![TravelWebsite-Reviews](/src/assets/images-readme/reviews.png)
+
 
 ## Autor
 **ALEXANDER MAESTRE TORRES**

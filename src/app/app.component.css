@@ -1,0 +1,14 @@
+
+app-nav{
+    position: fixed;
+    z-index: 2;
+}
+
+.content{
+    padding-top: 5rem;
+}
+
+app-home{
+    margin: 0;
+    padding: 0;
+}

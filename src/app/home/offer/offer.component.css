@@ -1,0 +1,62 @@
+
+section{
+    padding: 5rem 10%;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.btn{
+    display: inline-block;
+    background: var(--black);
+    margin-top: 1rem;
+    color: var(--white);
+    font-size: 1.7rem;
+    padding: 1rem 3rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: var(--main-color);
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.offer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-offer{
+    text-align: center;
+}
+
+.home-offer .content{
+    max-width: 70rem;
+    margin: 0 auto;
+}
+
+.home-offer .content h3{
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
+
+.home-offer .content p{
+    font-size: 1.5rem;
+    color: var(--light-black);
+    line-height: 2;
+    padding: 1rem 0;
+}
+
+@media (max-width: 991px) {
+    section{
+        padding: 3rem 2rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    section{
+        padding: 3rem 5%;
+    }
+}

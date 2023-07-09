@@ -1,0 +1,29 @@
+
+.heading{
+    background-size: cover !important;
+    background-position: center !important;
+    padding-top: 10rem;
+    padding-bottom: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading h1{
+    font-size: 10rem;
+    text-transform: uppercase;
+    color: var(--white);
+    text-shadow: var(--text-shadow);
+}
+
+#head{
+    min-height: 100vh;
+    background: url(../../../assets/images/medellin-4.jpg) no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 768px) {
+    .heading h1{
+        font-size: 4rem;
+    }
+}
